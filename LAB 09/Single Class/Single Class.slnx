@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Array of Class Student/Array of Class Student.vcxproj" />
+  <Project Path="../Class+ Method/Class+ Method.vcxproj" />
+  <Project Path="../Pointer to Class/Pointer to Class.vcxproj" />
+  <Project Path="../Sort Object by ID (Bubble Sort)/Sort Object by ID (Bubble Sort).vcxproj" />
+  <Project Path="../ส่ง Object เข้า Function/ส่ง Object เข้า Function.vcxproj" />
+  <Project Path="Single Class.vcxproj" />
+</Solution>
